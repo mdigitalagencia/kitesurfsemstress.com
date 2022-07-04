@@ -55,7 +55,7 @@ iframe, .plyr{
   position: absolute;
   z-index: 110;
   width: 1%;
-  height: 15px;
+  height: 7px;
   bottom: 0%;
   left: 0;
   background: rgba(24, 144, 255, .9);
